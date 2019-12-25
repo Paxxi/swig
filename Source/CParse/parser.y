@@ -20,7 +20,7 @@
    you really have no choice but to do it, make sure you clearly document each
    new conflict in this file.
  */
-%expect 6
+// %expect 6
 
 %{
 #define yylex yylex

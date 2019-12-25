@@ -16,7 +16,7 @@
  * ----------------------------------------------------------------------------- */
 
 #include "cparse.h"
-#include "parser.h"
+#include "parser.tab.h"
 #include <string.h>
 #include <ctype.h>
 

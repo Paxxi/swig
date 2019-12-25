@@ -74,7 +74,6 @@ Examples/test-suite/*/Makefile
 Examples/xml/Makefile
 /Makefile
 Source/Include/stamp-h1
-Source/Include/swigconfig.h
 Source/Makefile
 Tools/javascript/Makefile
 .deps
